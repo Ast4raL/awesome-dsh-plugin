@@ -1,0 +1,5 @@
+url: https://github.com/Ast4raL/dsh-import-agents
+name: Ast4raL/dsh-import-agents
+category: tools
+description:
+  en: Import MCP servers and skills from Claude Code and Codex into a DeepSeek Harness profile with preview, source annotation, and credential redaction.
